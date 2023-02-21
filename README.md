@@ -25,7 +25,7 @@
 - <b>AI: Isn't It Crazy Cool</b>
   - [Praciting DS & Algos in Python](https://github.com/salimansas/Algorithms-Practice)
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/salimansas/Python-Pathfinding-Algorithm)
-
+  - [Praciting DS & Algos in Python](https://github.com/salimansas/Algorithms-Practice)
 
 <h2>📺 Popular YouTube Videos</h2>
 
