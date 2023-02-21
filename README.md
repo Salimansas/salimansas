@@ -4,26 +4,32 @@
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/salimansas/Algorithms-Practice)
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/salimansas/Python-Pathfinding-Algorithm)
   
-- <b>Full Stack Web App (bootstrap, laravel, , and Machine Learning Components)</b>
-  - [A blog post built in Laravel ](https://github.com/salimasas/blog <b><i>(New blog post)</b></i>
-  - [Image About my work ](https://github.com/Salimansas/New-portofoli) <b><i>(New portfoli)</b></i>
+- <b>Full Stack Web App (bootstrap,react, laravel,and Machine Learning Components)</b>
+  - [A blog post built in Laravel ](https://github.com/salimasas/blog-post) <b><i>(New blog post)</b></i>
+  - [Image About my work and myself ](https://github.com/Salimansas/iPortfolio) <b><i>(New portfolio)</b></i>
+  - [The effect of Knowing React ](https://github.com/Salimansas/hyperspace) <b><i>(React working project)</b></i>
   
-- <b>Web App</b>
+- <b>Web Apps</b>
   - [Django | Proof of Concept (New filo )](https://github.com/salimansas/New)
-  - <b>Full Stack Web App (react, django, and Machine Learning Components)</b>
+  - [Full Stack Web App (Html, Css, Bootstrap, react, django, and Machine Learning Components)](https://github.com/Salimansas/Hoshpor)</b></i> (Food     Apps)</b></i>
   
 - <b>Dart (Flutter Mobile Applications)</b>
   - [A flutter mobile (A video player app )](https://github.com/salimansas/flutterjojo)
+
+- <b>React (React Native Mobile Applications)</b>
+  - [A React Native mobile (A audio player app )](https://github.com/salimansas/Reactjojo)
  
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/salimansas/Python-Pathfinding-Algorithm)
+
 
 <h2>📺 Popular YouTube Videos</h2>
 
 - [How to Ace the Main Maps in Call of Duty: Modern Warfare Remastered like a Pro!](https://www.youtube.com/watch?v=905JCsvEz3Q)
 - [The Strangest and Coolest Thing You'll Ever See | Call of Duty Mobile](https://www.youtube.com/watch?v=D5b4OKiZTq8)
 
+
+<h2> Certifications </h2>
 
 
 <h2> 🤳 Connect with me:</h2>
