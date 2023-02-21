@@ -12,7 +12,7 @@
   - [The effect of Knowing React ](https://github.com/Salimansas/hyperspace) <b><i>(React working project)</b></i>
   
 - <b>Web Apps</b>
-  - [Django | Proof of Concept (New filo )](https://github.com/salimansas/django_project)
+  - [Django | Proof of Concept](https://github.com/salimansas/django_project) (New project with django )
   - [Full Stack Web App (Html, Css, Bootstrap, react, django, and Machine Learning Components)](https://github.com/Salimansas/Hoshpor)</b></i> (Food     Apps)</b></i>
   
 - <b>Dart (Flutter Mobile Applications)</b>
@@ -21,6 +21,10 @@
 - <b>React (React Native Mobile Applications)</b>
   - [A React Native mobile (A audio player app )](https://github.com/salimansas/Reactjojo)
  
+ 
+- <b>AI: Isn't It Crazy Cool</b>
+  - [Praciting DS & Algos in Python](https://github.com/salimansas/Algorithms-Practice)
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/salimansas/Python-Pathfinding-Algorithm)
 
 
 <h2>📺 Popular YouTube Videos</h2>
