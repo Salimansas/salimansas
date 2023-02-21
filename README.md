@@ -14,7 +14,7 @@
   - <b>Full Stack Web App (react, django, and Machine Learning Components)</b>
   
 - <b>Dart (Flutter Mobile Applications)</b>
-  - [A fluttr mobile (A video player app )](https://github.com/salimansas/flutterjojo)
+  - [A flutter mobile (A video player app )](https://github.com/salimansas/flutterjojo)
  
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/salimansas/Python-Pathfinding-Algorithm)
