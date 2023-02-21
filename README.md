@@ -12,7 +12,7 @@
   - [The effect of Knowing React ](https://github.com/Salimansas/hyperspace) <b><i>(React working project)</b></i>
   
 - <b>Web Apps</b>
-  - [Django | Proof of Concept (New filo )](https://github.com/salimansas/New)
+  - [Django | Proof of Concept (New filo )](https://github.com/salimansas/django_project)
   - [Full Stack Web App (Html, Css, Bootstrap, react, django, and Machine Learning Components)](https://github.com/Salimansas/Hoshpor)</b></i> (Food     Apps)</b></i>
   
 - <b>Dart (Flutter Mobile Applications)</b>
