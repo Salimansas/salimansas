@@ -4,7 +4,7 @@
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/salimansas/Algorithms-Practice)
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/salimansas/Python-Pathfinding-Algorithm)
+  - [Package Delivery Application (Data Structures and Algorithms Demo)](https://github.com/salimansas/ShiftSwift)
   
 - <b>Full Stack Web App (bootstrap,react, laravel,and Machine Learning Components)</b>
   - [A blog post built in Laravel ](https://github.com/salimasas/blog-post) <b><i>(New blog post)</b></i>
@@ -13,13 +13,13 @@
   
 - <b>Web Apps</b>
   - [Django | Proof of Concept](https://github.com/salimansas/django_project) (New project with django )
-  - [Full Stack Web App (Html, Css, Bootstrap, react, django, and Machine Learning Components)](https://github.com/Salimansas/Hoshpor)</b></i> (Food     Apps)</b></i>
+  - [Full Stack Web App (Html, Css, Bootstrap, react, django, and Machine Learning Components)](https://github.com/Salimansas/PlatePal)</b></i> (Food     Apps)</b></i>
   
 - <b>Dart (Flutter Mobile Applications)</b>
-  - [A flutter mobile (A video player app )](https://github.com/salimansas/flutterjojo)
+  - [A flutter mobile (A video player app )](https://github.com/Salimansas/flutterjojo)
 
 - <b>React (React Native Mobile Applications)</b>
-  - [A React Native mobile (A audio player app )](https://github.com/salimansas/Reactjojo)
+  - [A React Native mobile (An audio player app )](https://github.com/salimansas/Reactjojo)
  
  
 - <b>AI: Isn't It Crazy Cool</b>
