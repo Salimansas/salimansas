@@ -1,5 +1,7 @@
 <h1>Hi, I'm sasili! <br/><a href="https://github.com/salimansas">Programmer</a>, <a href="https://www.linkedin.com/in/salimansas2017/"> Data analyst </a>, <a href="https://www.youtube.com/@wins_Signature">YouTuber</a></h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=salimansas&label=Profile%20views&color=0e75b6&style=flat" alt="salimansas" /> </p>
+
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
@@ -43,7 +45,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@wins_signature" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@wins_signature" height="30" width="40" /></a>
+<a href="https://twitter.com/@wins_Signature" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@wins_signature" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/salimansas2017/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/salimansas2017/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@wins_signature" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@wins_signature" height="30" width="40" /></a>
 </p>
