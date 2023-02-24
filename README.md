@@ -47,5 +47,5 @@
 <p align="left">
 <a href="https://twitter.com/@wins_Signature" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@wins_signature" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/salimansas2017/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/salimansas2017/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/wins_signature" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@wins_signature" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@wins_Signature" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@wins_signature" height="30" width="40" /></a>
 </p>
