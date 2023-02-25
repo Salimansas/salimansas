@@ -11,7 +11,7 @@
 - <b>Full Stack Web App (bootstrap,react, laravel,and Machine Learning Components)</b>
   - [A blog post built in Laravel ](https://github.com/salimasas/blog-post) <b><i>(New blog post)</b></i>
   - [Image About my work and myself ](https://github.com/Salimansas/iPortfolio) <b><i>(New portfolio)</b></i>
-  - [The effect of Knowing React ](https://github.com/Salimansas/hyperspace) <b><i>(React working project)</b></i>
+  - [ React Eccommerce Material UI ](https://github.com/Salimansas/hyperspace) <b><i>(React dashboard)</b></i>
   
 - <b>Web Apps</b>
   - [Django | Proof of Concept](https://github.com/salimansas/django_project) (New project with django )
