@@ -10,7 +10,7 @@
   
 - <b>Full Stack Web App (bootstrap,react, laravel,and Machine Learning Components)</b>
   - [A blog post built in Laravel ](https://github.com/salimasas/blog-post) <b><i>(New blog post)</b></i>
-  - [Image About my work and myself ](https://github.com/Salimansas/iPortfolio) <b><i>(New portfolio)</b></i>
+  - [Image About my Work and Self ](https://github.com/Salimansas/iPortfolio) <b><i>(New portfolio)</b></i>
   - [ React Eccommerce Material UI ](https://github.com/Salimansas/hyperspace) <b><i>(React dashboard)</b></i>
   
 - <b>Web Apps</b>
