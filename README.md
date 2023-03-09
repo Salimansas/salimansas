@@ -31,8 +31,8 @@
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [How to Ace the Main Maps in Call of Duty: Modern Warfare Remastered like a Pro!](https://www.youtube.com/watch?v=905JCsvEz3Q)
-- [The Strangest and Coolest Thing You'll Ever See | Call of Duty Mobile](https://www.youtube.com/watch?v=D5b4OKiZTq8)
+- [DUO VS SQUAD | INTENSE FARM FIGHTS | 23 KILLS](https://www.youtube.com/watch?v=905JCsvEz3Q)
+- [SOLO VS SQUADS || INTENSE 1 VS4 | WHO WON? | 28 KILLS](https://www.youtube.com/watch?v=D5b4OKiZTq8)
 
 <h2>📄 Certifications</h2>
 
