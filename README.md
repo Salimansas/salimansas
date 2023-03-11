@@ -32,7 +32,7 @@
 <h2>📺 Popular YouTube Videos</h2>
 
 - [DUO VS SQUAD | INTENSE FARM FIGHTS | 23 KILLS](https://www.youtube.com/watch?v=905JCsvEz3Q)
-- [SOLO VS SQUADS || INTENSE 1 VS4 | WHO WON? | 28 KILLS](https://www.youtube.com/watch?v=D5b4OKiZTq8)
+- [SOLO VS SQUADS | INTENSE 1 VS4 | WHO WON? | 28 KILLS](https://www.youtube.com/watch?v=D5b4OKiZTq8)
 
 <h2>📄 Certifications</h2>
 
