@@ -25,9 +25,9 @@
  
  
 - <b>AI: Isn't It Crazy Cool</b>
-  - [Praciting DS & Algos in Python](https://github.com/salimansas/Algorithms-Practice)
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/salimansas/Python-Pathfinding-Algorithm)
-  - [Praciting DS & Algos in Python](https://github.com/salimansas/Algorithms-Practice)
+  - [Sentiment Analysis of Product Review](https://github.com/salimansas/CriticAI)
+  - [Image classification)](https://github.com/salimansas/PredictiveGenie)
+  - [Praciting Natural Language Processing ](https://github.com/salimansas/TalkToMe)
 
 <h2>📺 Popular YouTube Videos</h2>
 
