@@ -26,7 +26,7 @@
  
 - <b>AI: Isn't It Crazy Cool</b>
   - [Sentiment Analysis of Product Review](https://github.com/salimansas/CriticAI)
-  - [Image classification)](https://github.com/salimansas/PredictiveGenie)
+  - [Image classification](https://github.com/salimansas/PredictiveGenie)
   - [Praciting Natural Language Processing ](https://github.com/salimansas/TalkToMe)
 
 <h2>📺 Popular YouTube Videos</h2>
