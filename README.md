@@ -1,4 +1,4 @@
-<h1>Hi, I'm sasili! <br/><a href="https://github.com/salimansas">Programmer</a>, <a href="https://www.linkedin.com/in/salimansas2017/"> Data analyst </a>, <a href="https://www.youtube.com/@wins_Signature">YouTuber</a></h1>
+<h1>Hi, I'm sasili! <br/><a href="https://github.com/salimansas">Talented</a>,<a href="https://www.linkedin.com/in/salimansas2017/">Programmer</a></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salimansas&label=Profile%20views&color=0e75b6&style=flat" alt="salimansas" /> </p>
 
